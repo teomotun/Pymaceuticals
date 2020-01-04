@@ -1,1 +1,24 @@
-# matplotlib-challenge
+## Pymaceuticals 
+
+![Laboratory](Images/Laboratory.jpg)
+
+While my data companions rushed off to jobs in finance and government, I remained adamant that science was the way for me. Staying true to my mission, I joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego, CA. Pymaceuticals specializes in drug-based, anti-cancer pharmaceuticals. In their most recent efforts, they've since begun screening for potential treatments to squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+
+As their Chief Data Analyst, I've been given access to the complete data from their most recent animal study. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. My objective was to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
+
+To do this I:
+
+* Created a scatter plot that shows how the tumor volume changes over time for each treatment.
+* Created a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
+* Created a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+* Created a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+
+### Observations
+
+I observed the following:
+
+* While the other drugs consistently had an increase in tumor volume, Capomulin and Ramicane had a consitent decrease over the entire course of the experiment. Ketapril and Stelasyn had the highest increase in tumor volume.
+
+* The number of metastatic sites for Capomulin and Ramicane is lower than the other drugs which is consistent with the change in tumor volume.
+
+* The fatality rate of the mices in the experiment is much lower for Capomulin and Ramicane. Propriva and Infobinol had the highest fatality rate.

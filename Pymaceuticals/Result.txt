@@ -1,0 +1,9 @@
+### Observations
+
+I observed the following:
+
+* While the other drugs consistently had an increase in tumor volume, Capomulin and Ramicane had a consitent decrease over the entire course of the experiment. Ketapril and Stelasyn had the highest increase in tumor volume.
+
+* The number of metastatic sites for Capomulin and Ramicane is lower than the other drugs which is consistent with the change in tumor volume.
+
+* The fatality rate of the mices in the experiment is much lower for Capomulin and Ramicane. Propriva and Infobinol had the highest fatality rate.
